@@ -5,3 +5,7 @@
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: In my profile picture, I'm trying not to fall off the wall
+-
+-
+-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumurillo)](https://git.io/streak-stats)
