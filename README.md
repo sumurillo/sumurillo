@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a MERN web application for multiple photographers to display their business to clients all in one place
-- 🌱 I’m currently learning how to create a web application using MERN Stack
+- 🔭 I’m currently working on a improving my portfolio and creating a frontend task application to practice and demonstrate design
+- 🌱 I’m currently learning UI/UX and Scrum
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: In my profile picture, I'm trying not to fall off the wall
