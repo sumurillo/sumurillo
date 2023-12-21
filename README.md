@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3>🌺Thanks for Stopping By!🌺</h3>
 
-<img width=150 src="https://pic.funnygifsbox.com/uploads/2019/12/funnygifsbox.com-2019-12-11-06-56-02-73.gif)https://tenor.com/view/kiss-panda-gif-13148182" />
+<img width=150 src="https://pic.funnygifsbox.com/uploads/2019/12/funnygifsbox.com-2019-12-11-06-56-02-73.gif" />
 
 </div>
 
